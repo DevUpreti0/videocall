@@ -1,6 +1,6 @@
-const APP_ID = "2b012de3ea2340c495be8eb1f6fce9f5"
-const TOKEN = "0062b012de3ea2340c495be8eb1f6fce9f5IADS/4tlbEecMjvuY1bC/EnadKeZjy4pY3YGzl478JIFR1ASYBQAAAAAEACBVNzpmZHfYQEAAQCbkd9h"
-const CHANNEL = "dukumeet"
+const APP_ID = "5c41709aef9744cc9e4d6f274711c468"
+const TOKEN = "0065c41709aef9744cc9e4d6f274711c468IADD3XKzVt2DdlXVyJQdn3H7UByh1vTrZo2feQx0ed+Uf/hybIQAAAAAEADaKj8PBd/fYQEAAQAH399h"
+const CHANNEL = "dukullcmeet"
 
 const client = AgoraRTC.createClient({mode:'rtc', codec:'vp8'})
 
